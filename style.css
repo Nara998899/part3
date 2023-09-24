@@ -1,0 +1,16 @@
+.posts {
+    font-family: sans-serif;
+}
+
+.post {
+    margin: 15px;
+    font-size: 12px;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.post-body {
+    font-size: 12px;
+}
